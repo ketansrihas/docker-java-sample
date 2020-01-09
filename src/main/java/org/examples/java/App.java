@@ -1,7 +1,7 @@
 package org.examples.java;
 
 /**
- * Hello world!
+ * Hello SS!
  */
 public class App {
     public static void main(String[] args) {
